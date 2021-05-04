@@ -2,8 +2,14 @@ title: Brian McHugh # your name (or website title) here
 logo: "/images/Untitled-Artwork (4).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  Second description 
+  <br>
+  I have created this site highlight the
+  skills that I have developed for data science and 
+  machine learning using Python.
+  <br>
+  My past work experiences have focused mainly 
+  on mechanical engineering roles and have 
+  taught myself software skills in my spare time. 
   <br><br>
   <a href="https://www.linkedin.com/in/brian-mchugh-a450aa104/">View My LinkedIn Profile</a> 
   
