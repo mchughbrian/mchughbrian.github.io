@@ -4,7 +4,7 @@
 
 ### Publications 
 
-[Journal of Biomechanics](/sample_page)
+[Journal of Biomechanics](/https://www.sciencedirect.com/science/article/abs/pii/S0021929021001421)
 <img src="images/BVR_paper.png?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://www.sciencedirect.com/science/article/abs/pii/S0021929021001421)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
