@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Publications 
 
-[Project 1 Title](/sample_page)
+[Journal of Biomechanics](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
