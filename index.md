@@ -4,7 +4,7 @@
 
 ### Publications 
 
-[Journal of Biomechanics](/https://www.sciencedirect.com/science/article/abs/pii/S0021929021001421)
+[Journal of Biomechanics: Optical motion capture accuracy is task-dependent in assessing wrist motion](https://www.sciencedirect.com/science/article/abs/pii/S0021929021001421)
 <img src="images/BVR_paper.png?raw=true"/>
 
 ---
