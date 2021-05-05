@@ -9,7 +9,7 @@
 
 ---
 [Journal of Medical Science and Technology: Accuracy of an Electrogoniometer ](https://www.tandfonline.com/doi/abs/10.1080/03091902.2020.1713240)
-<img src="images/EG_paper.png?raw=true"/>
+<img src="images/EG_Paper.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
