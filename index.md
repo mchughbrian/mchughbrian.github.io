@@ -8,7 +8,7 @@
 <img src="images/BVR_paper.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Journal of Medical Science and Technology: Accuracy of an Electrogoniometer ](https://www.tandfonline.com/doi/abs/10.1080/03091902.2020.1713240)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
