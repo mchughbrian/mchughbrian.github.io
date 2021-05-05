@@ -5,7 +5,7 @@
 ### Publications 
 
 [Journal of Biomechanics](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BVR_paper.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
