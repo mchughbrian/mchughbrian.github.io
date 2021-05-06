@@ -18,12 +18,12 @@
 ---
 
 
-### Data Science Projects (Personal)
+### Data Science Projects
 
 - [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](http://example.com/)
 - Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes
-- <img src="images/BVR_paper.png?raw=true"/>
+- <img src="images/SimilarStocks.png?raw=true"/>
 
 ---
 - [Project 2 Title](http://example.com/)
