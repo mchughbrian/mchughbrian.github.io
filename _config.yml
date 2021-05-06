@@ -1,4 +1,4 @@
-title: Brian McHugh # your name (or website title) here
+#title: Brian McHugh # your name (or website title) here
 logo: "/images/Untitled-Artwork (4).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Description 
@@ -6,9 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have created this site to highlight the skills that I have developed in data science and 
   machine learning using Python.
   <br>
-  My past work experiences have focused mainly on mechanical engineering roles and have 
-  taught myself software skills in my spare time to develop the skills necessary to break 
-  into the industry. 
   <br><br>
   <a href="https://www.linkedin.com/in/brian-mchugh-a450aa104/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
