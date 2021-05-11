@@ -23,13 +23,13 @@
 - [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck/blob/main/README.md)
 - Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes, API
-- <img src="images/SimilarStocks.png?raw=true"/>
+<img src="images/SimilarStocks.png?raw=true"/>
 
 ---
 - [Linear Regression Project: Predict Healthcare costs based on variables](http://example.com/)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Dummy Variables (Encoding), Sklearn Linear Regression, Error Measurments
-- <img src="images/HealthCosts.png?raw=true"/>
+<img src="images/HealthCosts.png?raw=true"/>
 ---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
