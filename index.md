@@ -26,16 +26,18 @@
 - <img src="images/SimilarStocks.png?raw=true"/>
 
 ---
+- [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](http://example.com/)
+- Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
+- Tags: Dummy Variables (Encoding), Sklearn Linear regression, Error Measurments
+- <img src="images/HealthCosts.png?raw=true"/>
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
-
-
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
