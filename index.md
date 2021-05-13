@@ -26,7 +26,7 @@
 <img src="images/SimilarStocks.png?raw=true"/>
 
 ---
-- [Linear Regression Project: Predict Healthcare costs based on variables](http://example.com/)
+- [Linear Regression Project: Predict Healthcare costs based on variables](https://github.com/mchughbrian/LinearRegression-HealthCosts)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Dummy Variables (Encoding), Sklearn Linear Regression, Error Measurments
 <img src="images/HealthCosts.png?raw=true"/>
