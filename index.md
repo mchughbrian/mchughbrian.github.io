@@ -18,19 +18,20 @@
 ---
 
 
-### Data Science Projects
+### Python Automation
 
 - [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck/blob/main/README.md)
 - Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes, API
 <img src="images/SimilarStocks.png?raw=true"/>
 
----
+### Machine Learning
 - [Linear Regression Project: Predict Healthcare costs based on variables](https://github.com/mchughbrian/LinearRegression-HealthCosts)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Dummy Variables (Encoding), Sklearn Linear Regression, Error Measurments
 <img src="images/HealthCosts.png?raw=true"/>
----
+
+### SOON TO COME 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
