@@ -27,8 +27,8 @@
 
 ---
 - [Tee Time Project: Automate Weekly Tee Time Booking with Selenium and Python](https://github.com/mchughbrian/Selenium_Tee_Time_Automation)
--Problem Solved: Booking Tee Times is very competitive. Booking Tee Time at my local course automatically. 
--Tags: Automation, Selenium, Python Functions
+- Problem Solved: Booking Tee Times is very competitive. Booking Tee Time at my local course automatically. 
+- Tags: Automation, Selenium, Python Functions
 
 ### Machine Learning
 - [Linear Regression Project: Predict Healthcare costs based on variables](https://github.com/mchughbrian/LinearRegression-HealthCosts)
