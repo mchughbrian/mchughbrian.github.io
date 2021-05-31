@@ -39,7 +39,7 @@
 - [Logistic Regression Project: Predict Heart Attack based on attributes](https://github.com/mchughbrian/Logistic_Regression_Heart_Attack_Prediction)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Area Under the Curve, Confusion Matrix, Precision & Recall
-<img src="images/HealthCosts.png?raw=true"/>
+<img src="images/Logistic_Heart_attack.png?raw=true"/>
 
 ### SOON TO COME 
 - [Project for Support Vector Machine (SVM)](http://example.com/)
