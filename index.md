@@ -36,11 +36,16 @@
 - Tags: Dummy Variables (Encoding), Sklearn Linear Regression, Error Measurments
 <img src="images/HealthCosts.png?raw=true"/>
 
+- [Logistic Regression Project: Predict Heart Attack based on attributes](https://github.com/mchughbrian/Logistic_Regression_Heart_Attack_Prediction)
+- Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
+- Tags: Area Under the Curve, Confusion Matrix, Precision & Recall
+<img src="images/HealthCosts.png?raw=true"/>
+
 ### SOON TO COME 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project for Support Vector Machine (SVM)](http://example.com/)
+- [Project for K-Nearest Neighbors](http://example.com/)
+- [Project for Neural Network](http://example.com/)
+- [Project for General Adversarial Network (GAN)](http://example.com/)
 
 
 
