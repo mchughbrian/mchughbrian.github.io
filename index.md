@@ -20,7 +20,7 @@
 
 ### Python Automation
 
-- [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck/blob/main/README.md)
+- [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck)
 - Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes, API
 <img src="images/SimilarStocks.png?raw=true"/>
@@ -31,7 +31,7 @@
 - Tags: Automation, Selenium, Python Functions
 
 
-- [Tee Time Project (Part 2): Using Python Requests Automate Weekly Tee Time Booking](https://github.com/mchughbrian/Tee_Time_Requests/blob/main/README.md)
+- [Tee Time Project (Part 2): Using Python Requests Automate Weekly Tee Time Booking](https://github.com/mchughbrian/Tee_Time_Requests)
 - Problem Solved: Requests package is faster and easier to run in a virtual environment. 
 - Tags: Automation, JSON, Requests, GET, POST
 
