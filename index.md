@@ -30,6 +30,11 @@
 - Problem Solved: Booking Tee Times is very competitive. Booking Tee Time at my local course automatically. 
 - Tags: Automation, Selenium, Python Functions
 
+---
+- [Tee Time Project (Part 2): Using Python Requests Automate Weekly Tee Time Booking](http://example.com/)
+- Problem Solved: Requests package is faster and easier to run in a virtual environment. 
+- Tags: Automation, JSON, Requests, GET, POST
+
 ### Machine Learning
 - [Linear Regression Project: Predict Healthcare costs based on variables](https://github.com/mchughbrian/LinearRegression-HealthCosts)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
