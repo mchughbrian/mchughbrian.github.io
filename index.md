@@ -9,7 +9,7 @@
 - Tags: Noisy real world data, Transformations in 3D space, Large dataset, Statistics, written communication skills
 <img src="images/BVR_paper.png?raw=true"/>
 
----
+
 - [Journal of Medical Science and Technology: Accuracy of an Electrogoniometer ](https://www.tandfonline.com/doi/abs/10.1080/03091902.2020.1713240)
 - Problem Solved: Electrogoniometers are a cheap and easy method for studying invivo wrist motion. Determined accuracy based on common method of optical motion capture
 - Tags: Noisy real world data, Large dataset, Statistics, written communication skills
@@ -25,16 +25,17 @@
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes, API
 <img src="images/SimilarStocks.png?raw=true"/>
 
----
+
 - [Tee Time Project: Automate Weekly Tee Time Booking with Selenium and Python](https://github.com/mchughbrian/Selenium_Tee_Time_Automation)
 - Problem Solved: Booking Tee Times is very competitive. Booking Tee Time at my local course automatically. 
 - Tags: Automation, Selenium, Python Functions
 
----
-- [Tee Time Project (Part 2): Using Python Requests Automate Weekly Tee Time Booking](http://example.com/)
+
+- [Tee Time Project (Part 2): Using Python Requests Automate Weekly Tee Time Booking](https://github.com/mchughbrian/Tee_Time_Requests/blob/main/README.md)
 - Problem Solved: Requests package is faster and easier to run in a virtual environment. 
 - Tags: Automation, JSON, Requests, GET, POST
 
+---
 ### Machine Learning
 - [Linear Regression Project: Predict Healthcare costs based on variables](https://github.com/mchughbrian/LinearRegression-HealthCosts)
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
@@ -45,7 +46,7 @@
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Area Under the Curve, Confusion Matrix, Precision & Recall
 <img src="images/Logitic_Heart_attack.png?raw=true"/>
-
+---
 ### SOON TO COME 
 - [Project for Support Vector Machine (SVM)](http://example.com/)
 - [Project for K-Nearest Neighbors](http://example.com/)
