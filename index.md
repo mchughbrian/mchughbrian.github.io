@@ -46,6 +46,12 @@
 - Problem Solved: Predicting insurance costs based on attributes (age,sex,bmi,children,smoker,region)
 - Tags: Area Under the Curve, Confusion Matrix, Precision & Recall
 <img src="images/Logitic_Heart_attack.png?raw=true"/>
+
+- [Random Forest Project: Predict Breast Cancer based on features from diagnostic image](https://github.com/mchughbrian/Random_Forest_Cancer)
+- Problem Solved: Predicting Melignant or Benign mass based on features computed from a fine needle aspirate (FNA)
+- Tags: Feature Selection, Random Forest, Violin Plot, Swarm Plots
+<img src="images/Cancer_Prediction.png?raw=true"/>
+
 ---
 ### SOON TO COME 
 - [Project for Support Vector Machine (SVM)](http://example.com/)
