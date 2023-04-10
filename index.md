@@ -28,7 +28,7 @@
 - [Image Processing Project: Cartoon an image from user input](https://github.com/mchughbrian/Segmentation)
 - Problem Solved: Programatically turn a photo into a cartoon syle drawing
 - Tags: GUI, Tkinter, OpenCV
-<img src="images/Dog Cartoon.jpeg?raw=true"/>
+<img src="images/Dog Cartoon.png?raw=true"/>
 
 
 - [Tee Time Project: Automate Weekly Tee Time Booking with Selenium and Python](https://github.com/mchughbrian/Selenium_Tee_Time_Automation)
