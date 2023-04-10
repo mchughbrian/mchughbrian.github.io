@@ -25,6 +25,11 @@
 - Tags: Multilevel Dataframe (Pandas), Plotly, Class attributes, API
 <img src="images/SimilarStocks.png?raw=true"/>
 
+- [Image Processing Project: Cartoon an image from user input](https://github.com/mchughbrian/Segmentation)
+- Problem Solved: Programatically turn a photo into a cartoon syle drawing
+- Tags: GUI, Tkinter, OpenCV
+<img src="images/Dog Cartoon.jpeg?raw=true"/>
+
 
 - [Tee Time Project: Automate Weekly Tee Time Booking with Selenium and Python](https://github.com/mchughbrian/Selenium_Tee_Time_Automation)
 - Problem Solved: Booking Tee Times is very competitive. Booking Tee Time at my local course automatically. 
