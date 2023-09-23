@@ -19,6 +19,11 @@
 
 
 ### Python Automation
+- [Recipe Project: Web application for users to compile their recipes and create meal plans]
+- (https://github.com/mchughbrian/RecipeProject)
+- Problem Solved: Meal Planning
+- Tags: Python, Django, HTML, WebApplication
+<img src="images/RecipeHomePage.png?raw=true"/>
 
 - [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck)
 - Problem Solved: Quick way to compare key values for competitor stocks to the ticker inputted by the user. 
@@ -59,12 +64,6 @@
 
 ---
 ### SOON TO COME 
-- [Project for Support Vector Machine (SVM)](http://example.com/)
-- [Project for K-Nearest Neighbors](http://example.com/)
-- [Project for Neural Network](http://example.com/)
-- [Project for General Adversarial Network (GAN)](http://example.com/)
-
-
 
 ---
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
