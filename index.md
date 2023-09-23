@@ -19,8 +19,7 @@
 
 
 ### Python Automation
-- [Recipe Project: Web application for users to compile their recipes and create meal plans]
-- (https://github.com/mchughbrian/RecipeProject)
+- [Recipe Project: Web application for users to compile their recipes and create meal plans](https://github.com/mchughbrian/RecipeProject)
 - Problem Solved: Meal Planning
 - Tags: Python, Django, HTML, WebApplication
 <img src="images/RecipeHomePage.png?raw=true"/>
