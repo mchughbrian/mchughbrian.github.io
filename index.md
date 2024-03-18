@@ -19,9 +19,10 @@
 
 
 ### Python Automation
-- [Recipe Project: Web application for users to compile their recipes and create meal plans](https://github.com/mchughbrian/RecipeProject)
-- Problem Solved: Meal Planning
-- Tags: Python, Django, HTML, WebApplication
+- [Recipe Project: Web application for momdern cookbook uses AI image generation](https://github.com/mchughbrian/RecipeProject)
+- Published Application: [https://recipevault.io](https://recipevault.io)
+- Problem Solved: Modern Cookbook, Meal Planning
+- Tags: Python, Django, HTML, WebApplication, API, OpenAI
 <img src="images/RecipeHomePage.png?raw=true"/>
 
 - [Stock Project: Finding similar stocks based on ticker input from user and comparing balance sheets](https://github.com/mchughbrian/StockGutCheck)
